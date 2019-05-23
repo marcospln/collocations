@@ -7,7 +7,7 @@ _Version 1.0: April 30, 2019_
 
 This folder contains three corpora with annotation of dependency-based collocations and their lexical functions in English (en), Portuguese (pt), and Spanish (es). More information about the annotation process can be found at:
 
-  * [Pay attention when you pay the bills. A multilingual corpus with dependency-based and semantic annotation of collocations](http://aclweb.org/anthology/)
+  * _Pay attention when you pay the bills. A multilingual corpus with dependency-based and semantic annotation of collocations_. In ACL 2019 (forthcoming)
   * [Annotation Guidelines](http://grupolys.org/~marcos/collocations/guidelines.html)
 
 The corpora is based on data from _The 2018 PARSEME Shared Task on Automatic Identification of Verbal Multiword Expressions_, and is released in [.conllu format](https://universaldependencies.org/format.html). Source data can be found at [GitLab](https://gitlab.com/parseme/sharedtask-data/tree/master/1.1).
