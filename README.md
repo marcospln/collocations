@@ -2,6 +2,7 @@ Corpora with annotation of collocations and lexical functions
 -------------------------------------------------------------
 
 _Marcos Garcia, Marcos García-Salido, Susana Sotelo Docío, Estela Mosqueira, Margarita Alonso-Ramos_
+
 _Version 1.0: April 30, 2019_
 
 This folder contains three corpora with annotation of dependency-based collocations and their lexical functions in English (en), Portuguese (pt), and Spanish (es). More information about the annotation process can be found at:
